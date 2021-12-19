@@ -1,0 +1,57 @@
+.digital-clock-main {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 350px;
+    max-width: 90%;
+    border: 2px solid #414141;
+    padding: 0rem;
+    background-color: #414141;
+  }
+  
+  .myClockTitle {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 500;
+    margin: auto;
+    width: 300px;
+    max-width: 90%;
+    padding: 0.5rem 0rem;
+  }
+  
+  .myClockContent {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 2rem 0rem;
+  }
+  
+  .date-toggle-class {
+    margin: auto;
+    width: 200px;
+    max-width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .calendar-icon {
+    color: #007bff !important;
+  }
+  
+  .display-clock {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    background-color: #1b1d1d;
+    color: #007bff;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
